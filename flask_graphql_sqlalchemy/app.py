@@ -1,6 +1,5 @@
 from flask import Flask
-
-from database import db_session, init_db
+from database import db_session_write, init_db
 from flask_graphql import GraphQL
 from schema import schema
 
@@ -28,7 +27,7 @@ GraphQL(app, schema = schema, default_query = default_query)
 
 @app.teardown_appcontext
 def shutdown_session(exception=None):
-    db_session.remove()
+    db_session_write.remove()
 
 if __name__ == '__main__':
     init_db()
