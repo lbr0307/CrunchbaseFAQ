@@ -22,6 +22,40 @@ default_query = '''
   }
 }'''.strip()
 
+'''
+{
+  allDegrees {
+    edges {
+      node {
+        id,
+        objectId,
+        subject,
+        institution
+      }
+    }
+  }
+}
+'''
+'''
+{
+  allInvestors {
+    edges {
+      node {
+        id,
+        objectId,
+        firstName,
+        lastName,
+        birthplace,
+        affiliationName,
+        degreeType,
+        subject,
+        institution
+      }
+    }
+  }
+}
+'''
+
 GraphQL(app, schema = schema, default_query = default_query)
 
 
