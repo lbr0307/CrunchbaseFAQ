@@ -43,6 +43,21 @@ query {
 }
 
 ```
+```bash
+
+query {
+  allInvestors(institution_Icontains: "Carnegie") {
+    edges {
+      node {
+        id,
+        name,
+        institution
+      }
+    }
+  }
+}
+
+```
 
 and
 
