@@ -1,0 +1,1498 @@
+[
+    {
+        "fields": {
+            "institution": "Erasmus", 
+            "name": "Johan Trip"
+        }, 
+        "model": "investors.investor", 
+        "pk": 1
+    }, 
+    {
+        "fields": {
+            "institution": "New York University (NYU)", 
+            "name": "Geoff Grandberg"
+        }, 
+        "model": "investors.investor", 
+        "pk": 2
+    }, 
+    {
+        "fields": {
+            "institution": "Carnegie Mellon University", 
+            "name": "Joshua Baer"
+        }, 
+        "model": "investors.investor", 
+        "pk": 3
+    }, 
+    {
+        "fields": {
+            "institution": "Ngee Ann Polytechnic", 
+            "name": "Douglas Gan"
+        }, 
+        "model": "investors.investor", 
+        "pk": 4
+    }, 
+    {
+        "fields": {
+            "institution": "Harvard Business School", 
+            "name": "Ariel Arrieta"
+        }, 
+        "model": "investors.investor", 
+        "pk": 5
+    }, 
+    {
+        "fields": {
+            "institution": "Columbia University", 
+            "name": "Darrell Silver"
+        }, 
+        "model": "investors.investor", 
+        "pk": 6
+    }, 
+    {
+        "fields": {
+            "institution": "University of Western Sydney", 
+            "name": "Alan Jones"
+        }, 
+        "model": "investors.investor", 
+        "pk": 7
+    }, 
+    {
+        "fields": {
+            "institution": "SFSU", 
+            "name": "Gary Clayton"
+        }, 
+        "model": "investors.investor", 
+        "pk": 8
+    }, 
+    {
+        "fields": {
+            "institution": "Texas State University", 
+            "name": "David McInnis"
+        }, 
+        "model": "investors.investor", 
+        "pk": 9
+    }, 
+    {
+        "fields": {
+            "institution": "Stanford University", 
+            "name": "Dakin Sloss"
+        }, 
+        "model": "investors.investor", 
+        "pk": 10
+    }, 
+    {
+        "fields": {
+            "institution": "Harvard Business School", 
+            "name": "Hiroshi Mikitani"
+        }, 
+        "model": "investors.investor", 
+        "pk": 11
+    }, 
+    {
+        "fields": {
+            "institution": "University of Notre Dame", 
+            "name": "Andy Hagans"
+        }, 
+        "model": "investors.investor", 
+        "pk": 12
+    }, 
+    {
+        "fields": {
+            "institution": "Bellarmine University", 
+            "name": "Andy Swan"
+        }, 
+        "model": "investors.investor", 
+        "pk": 13
+    }, 
+    {
+        "fields": {
+            "institution": "University of Oxford", 
+            "name": "Harjeet Taggar"
+        }, 
+        "model": "investors.investor", 
+        "pk": 14
+    }, 
+    {
+        "fields": {
+            "institution": "University of Illinois at Urbana-Champaign", 
+            "name": "Ray Ozzie"
+        }, 
+        "model": "investors.investor", 
+        "pk": 15
+    }, 
+    {
+        "fields": {
+            "institution": "Whittier College", 
+            "name": "Jascha Kaykas-Wolff"
+        }, 
+        "model": "investors.investor", 
+        "pk": 16
+    }, 
+    {
+        "fields": {
+            "institution": "University of California, Berkeley", 
+            "name": "Steve Wozniak"
+        }, 
+        "model": "investors.investor", 
+        "pk": 17
+    }, 
+    {
+        "fields": {
+            "institution": "Harvard University", 
+            "name": "Eduardo Saverin"
+        }, 
+        "model": "investors.investor", 
+        "pk": 18
+    }, 
+    {
+        "fields": {
+            "institution": "Weber State University", 
+            "name": "David Carter"
+        }, 
+        "model": "investors.investor", 
+        "pk": 19
+    }, 
+    {
+        "fields": {
+            "institution": "Pennstate University", 
+            "name": "Joshua Zipkin"
+        }, 
+        "model": "investors.investor", 
+        "pk": 20
+    }, 
+    {
+        "fields": {
+            "institution": "Harvard University", 
+            "name": "Al Gore"
+        }, 
+        "model": "investors.investor", 
+        "pk": 21
+    }, 
+    {
+        "fields": {
+            "institution": "PES College", 
+            "name": "Muki Regunathan"
+        }, 
+        "model": "investors.investor", 
+        "pk": 22
+    }, 
+    {
+        "fields": {
+            "institution": "University of Utah", 
+            "name": "Jeff Holmes"
+        }, 
+        "model": "investors.investor", 
+        "pk": 23
+    }, 
+    {
+        "fields": {
+            "institution": "California State University, Fullerton", 
+            "name": "Neil Patel"
+        }, 
+        "model": "investors.investor", 
+        "pk": 24
+    }, 
+    {
+        "fields": {
+            "institution": "Tallinn University of Technology", 
+            "name": "Toivo Annus"
+        }, 
+        "model": "investors.investor", 
+        "pk": 25
+    }, 
+    {
+        "fields": {
+            "institution": "Boston University", 
+            "name": "Oleg Rogynskyy"
+        }, 
+        "model": "investors.investor", 
+        "pk": 26
+    }, 
+    {
+        "fields": {
+            "institution": "State University of New York at Stony Brook", 
+            "name": "Samuel Feuer"
+        }, 
+        "model": "investors.investor", 
+        "pk": 27
+    }, 
+    {
+        "fields": {
+            "institution": "Oregon Institute of Technology", 
+            "name": "Trevor Mauch"
+        }, 
+        "model": "investors.investor", 
+        "pk": 28
+    }, 
+    {
+        "fields": {
+            "institution": "University of Illinois at Urbana-Champaign", 
+            "name": "Joel Poloney"
+        }, 
+        "model": "investors.investor", 
+        "pk": 29
+    }, 
+    {
+        "fields": {
+            "institution": "University of California, Santa Barbara (UCSB)", 
+            "name": "Patrick Dietzen"
+        }, 
+        "model": "investors.investor", 
+        "pk": 30
+    }, 
+    {
+        "fields": {
+            "institution": "Washington University in St. Louis", 
+            "name": "Jacob Perkins"
+        }, 
+        "model": "investors.investor", 
+        "pk": 31
+    }, 
+    {
+        "fields": {
+            "institution": "Georgia Tech", 
+            "name": "Phil Gordon"
+        }, 
+        "model": "investors.investor", 
+        "pk": 32
+    }, 
+    {
+        "fields": {
+            "institution": "Technische Universit?t M?nchen", 
+            "name": "Felix Haas"
+        }, 
+        "model": "investors.investor", 
+        "pk": 33
+    }, 
+    {
+        "fields": {
+            "institution": "University of Missouri, Rolla", 
+            "name": "Brian Matthews"
+        }, 
+        "model": "investors.investor", 
+        "pk": 34
+    }, 
+    {
+        "fields": {
+            "institution": "TU/e", 
+            "name": "Filip Maertens"
+        }, 
+        "model": "investors.investor", 
+        "pk": 35
+    }, 
+    {
+        "fields": {
+            "institution": "Dartmouth College", 
+            "name": "Anderson Schoenrock"
+        }, 
+        "model": "investors.investor", 
+        "pk": 36
+    }, 
+    {
+        "fields": {
+            "institution": "Royal Roads University", 
+            "name": "Todd Dunlop"
+        }, 
+        "model": "investors.investor", 
+        "pk": 37
+    }, 
+    {
+        "fields": {
+            "institution": "University of Toronto", 
+            "name": "Jennifer Lum"
+        }, 
+        "model": "investors.investor", 
+        "pk": 38
+    }, 
+    {
+        "fields": {
+            "institution": "University of Zurich", 
+            "name": "Marc P. Bernegger"
+        }, 
+        "model": "investors.investor", 
+        "pk": 39
+    }, 
+    {
+        "fields": {
+            "institution": "Stanford University", 
+            "name": "Sachin Agarwal"
+        }, 
+        "model": "investors.investor", 
+        "pk": 40
+    }, 
+    {
+        "fields": {
+            "institution": "ESIC", 
+            "name": "Mariano Torrecilla"
+        }, 
+        "model": "investors.investor", 
+        "pk": 41
+    }, 
+    {
+        "fields": {
+            "institution": "Boston University", 
+            "name": "Rick Webb"
+        }, 
+        "model": "investors.investor", 
+        "pk": 42
+    }, 
+    {
+        "fields": {
+            "institution": "University of Vermont", 
+            "name": "Scott Switzer"
+        }, 
+        "model": "investors.investor", 
+        "pk": 43
+    }, 
+    {
+        "fields": {
+            "institution": "Tulane University", 
+            "name": "Timothy Sykes"
+        }, 
+        "model": "investors.investor", 
+        "pk": 44
+    }, 
+    {
+        "fields": {
+            "institution": "University of Toronto", 
+            "name": "Wayland Zhang"
+        }, 
+        "model": "investors.investor", 
+        "pk": 45
+    }, 
+    {
+        "fields": {
+            "institution": "University of St. Gallen (HSG)", 
+            "name": "Adrian Locher"
+        }, 
+        "model": "investors.investor", 
+        "pk": 46
+    }, 
+    {
+        "fields": {
+            "institution": "Hyper Island", 
+            "name": "Gustaf Alstromer"
+        }, 
+        "model": "investors.investor", 
+        "pk": 47
+    }, 
+    {
+        "fields": {
+            "institution": "University of Vaasa", 
+            "name": "Ari Tulla"
+        }, 
+        "model": "investors.investor", 
+        "pk": 48
+    }, 
+    {
+        "fields": {
+            "institution": "University of Illinois at Urbana-Champaign", 
+            "name": "Marc Andreessen"
+        }, 
+        "model": "investors.investor", 
+        "pk": 49
+    }, 
+    {
+        "fields": {
+            "institution": "Hamilton College", 
+            "name": "Marc Randolph"
+        }, 
+        "model": "investors.investor", 
+        "pk": 50
+    }, 
+    {
+        "fields": {
+            "institution": "University of Illinois at Urbana-Champaign", 
+            "name": "Max Levchin"
+        }, 
+        "model": "investors.investor", 
+        "pk": 51
+    }, 
+    {
+        "fields": {
+            "institution": "Williams College", 
+            "name": "David Steakley"
+        }, 
+        "model": "investors.investor", 
+        "pk": 52
+    }, 
+    {
+        "fields": {
+            "institution": "Kings College London", 
+            "name": "Sarah Hughes"
+        }, 
+        "model": "investors.investor", 
+        "pk": 53
+    }, 
+    {
+        "fields": {
+            "institution": "Chico State University", 
+            "name": "Christian Friedland"
+        }, 
+        "model": "investors.investor", 
+        "pk": 54
+    }, 
+    {
+        "fields": {
+            "institution": "Boston University", 
+            "name": "Jay Adelson"
+        }, 
+        "model": "investors.investor", 
+        "pk": 55
+    }, 
+    {
+        "fields": {
+            "institution": "Vanderbilt University", 
+            "name": "Adam Jackson"
+        }, 
+        "model": "investors.investor", 
+        "pk": 56
+    }, 
+    {
+        "fields": {
+            "institution": "Cornell University", 
+            "name": "Gregory Torfs"
+        }, 
+        "model": "investors.investor", 
+        "pk": 57
+    }, 
+    {
+        "fields": {
+            "institution": "Northwestern University", 
+            "name": "Rich Skrenta"
+        }, 
+        "model": "investors.investor", 
+        "pk": 58
+    }, 
+    {
+        "fields": {
+            "institution": "Santa Clara University", 
+            "name": "Brian Pokorny"
+        }, 
+        "model": "investors.investor", 
+        "pk": 59
+    }, 
+    {
+        "fields": {
+            "institution": "Tulane University", 
+            "name": "Jeffrey Silverman"
+        }, 
+        "model": "investors.investor", 
+        "pk": 60
+    }, 
+    {
+        "fields": {
+            "institution": "Carnegie Mellon University", 
+            "name": "Diane Loviglio"
+        }, 
+        "model": "investors.investor", 
+        "pk": 61
+    }, 
+    {
+        "fields": {
+            "institution": "University of Virginia", 
+            "name": "Halsey Minor"
+        }, 
+        "model": "investors.investor", 
+        "pk": 62
+    }, 
+    {
+        "fields": {
+            "institution": "University of California, Santa Barbara (UCSB)", 
+            "name": "Michael Levit"
+        }, 
+        "model": "investors.investor", 
+        "pk": 63
+    }, 
+    {
+        "fields": {
+            "institution": "Cape Breton University", 
+            "name": "Gavin Uhma"
+        }, 
+        "model": "investors.investor", 
+        "pk": 64
+    }, 
+    {
+        "fields": {
+            "institution": "Harvard University", 
+            "name": "Charlie Cheever"
+        }, 
+        "model": "investors.investor", 
+        "pk": 65
+    }, 
+    {
+        "fields": {
+            "institution": "California State University, Chico", 
+            "name": "Bryan Menell"
+        }, 
+        "model": "investors.investor", 
+        "pk": 66
+    }, 
+    {
+        "fields": {
+            "institution": "Florida International University", 
+            "name": "Gabriel Rotman"
+        }, 
+        "model": "investors.investor", 
+        "pk": 67
+    }, 
+    {
+        "fields": {
+            "institution": "Universit? degli Studi di Firenze", 
+            "name": "Paolo Barberis"
+        }, 
+        "model": "investors.investor", 
+        "pk": 68
+    }, 
+    {
+        "fields": {
+            "institution": "Illinois State University", 
+            "name": "Adam Strong"
+        }, 
+        "model": "investors.investor", 
+        "pk": 69
+    }, 
+    {
+        "fields": {
+            "institution": "Washington University in St. Louis", 
+            "name": "Duncan Seay"
+        }, 
+        "model": "investors.investor", 
+        "pk": 70
+    }, 
+    {
+        "fields": {
+            "institution": "CPLN Technical School", 
+            "name": "Daniel Gutenberg"
+        }, 
+        "model": "investors.investor", 
+        "pk": 71
+    }, 
+    {
+        "fields": {
+            "institution": "Harvard University", 
+            "name": "Jim Moran"
+        }, 
+        "model": "investors.investor", 
+        "pk": 72
+    }, 
+    {
+        "fields": {
+            "institution": "Jawaharlal Nehru Technological University", 
+            "name": "Ashok Kartham"
+        }, 
+        "model": "investors.investor", 
+        "pk": 73
+    }, 
+    {
+        "fields": {
+            "institution": "University of Illinois at Chicago", 
+            "name": "Leo Friedman"
+        }, 
+        "model": "investors.investor", 
+        "pk": 74
+    }, 
+    {
+        "fields": {
+            "institution": "Stanford University", 
+            "name": "Chris Bucchere"
+        }, 
+        "model": "investors.investor", 
+        "pk": 75
+    }, 
+    {
+        "fields": {
+            "institution": "University of Sao Paulo (USP)", 
+            "name": "Romero Rodrigues"
+        }, 
+        "model": "investors.investor", 
+        "pk": 76
+    }, 
+    {
+        "fields": {
+            "institution": "University of California, San Diego (UCSD)", 
+            "name": "Chris Tolles"
+        }, 
+        "model": "investors.investor", 
+        "pk": 77
+    }, 
+    {
+        "fields": {
+            "institution": "University of California, Los Angeles (UCLA)", 
+            "name": "Travis Kalanick"
+        }, 
+        "model": "investors.investor", 
+        "pk": 78
+    }, 
+    {
+        "fields": {
+            "institution": "University of Central Florida", 
+            "name": "David Cohen"
+        }, 
+        "model": "investors.investor", 
+        "pk": 79
+    }, 
+    {
+        "fields": {
+            "institution": "Harvard University", 
+            "name": "Matt Mazzeo"
+        }, 
+        "model": "investors.investor", 
+        "pk": 80
+    }, 
+    {
+        "fields": {
+            "institution": "The University of Newcastle upon Tyne", 
+            "name": "Jake Stride"
+        }, 
+        "model": "investors.investor", 
+        "pk": 81
+    }, 
+    {
+        "fields": {
+            "institution": "UFIMB", 
+            "name": "Rostyslav Malenko"
+        }, 
+        "model": "investors.investor", 
+        "pk": 82
+    }, 
+    {
+        "fields": {
+            "institution": "Harvard University", 
+            "name": "Tyra Banks"
+        }, 
+        "model": "investors.investor", 
+        "pk": 83
+    }, 
+    {
+        "fields": {
+            "institution": "University of Illinois at Urbana-Champaign", 
+            "name": "Steve Chen"
+        }, 
+        "model": "investors.investor", 
+        "pk": 84
+    }, 
+    {
+        "fields": {
+            "institution": "Yale University", 
+            "name": "Eric Ries"
+        }, 
+        "model": "investors.investor", 
+        "pk": 85
+    }, 
+    {
+        "fields": {
+            "institution": "ESSEC", 
+            "name": "Frederic Court"
+        }, 
+        "model": "investors.investor", 
+        "pk": 86
+    }, 
+    {
+        "fields": {
+            "institution": "Berlin University of Applied Sciences", 
+            "name": "Felix Schaal"
+        }, 
+        "model": "investors.investor", 
+        "pk": 87
+    }, 
+    {
+        "fields": {
+            "institution": "Technische Universit\ufffdt Berlin", 
+            "name": "Helmut Hoffer von Ankershoffen"
+        }, 
+        "model": "investors.investor", 
+        "pk": 88
+    }, 
+    {
+        "fields": {
+            "institution": "Boston University, School of Management", 
+            "name": "Niren Hiro"
+        }, 
+        "model": "investors.investor", 
+        "pk": 89
+    }, 
+    {
+        "fields": {
+            "institution": "New York University (NYU) Stern School of Business", 
+            "name": "Jason Hirschhorn"
+        }, 
+        "model": "investors.investor", 
+        "pk": 90
+    }, 
+    {
+        "fields": {
+            "institution": "Universidad de Extremadura", 
+            "name": "Jesus Lasso"
+        }, 
+        "model": "investors.investor", 
+        "pk": 91
+    }, 
+    {
+        "fields": {
+            "institution": "Haverford College", 
+            "name": "Mark Naples"
+        }, 
+        "model": "investors.investor", 
+        "pk": 92
+    }, 
+    {
+        "fields": {
+            "institution": "Paris University V", 
+            "name": "Jeff Clavier"
+        }, 
+        "model": "investors.investor", 
+        "pk": 93
+    }, 
+    {
+        "fields": {
+            "institution": "Anderson University", 
+            "name": "Kristian Andersen"
+        }, 
+        "model": "investors.investor", 
+        "pk": 94
+    }, 
+    {
+        "fields": {
+            "institution": "Babson College", 
+            "name": "Siamak Taghaddos"
+        }, 
+        "model": "investors.investor", 
+        "pk": 95
+    }, 
+    {
+        "fields": {
+            "institution": "Kungliga tekniska h?gskolan", 
+            "name": "Andreas Ehn"
+        }, 
+        "model": "investors.investor", 
+        "pk": 96
+    }, 
+    {
+        "fields": {
+            "institution": "University of Houston", 
+            "name": "Matt Mullenweg"
+        }, 
+        "model": "investors.investor", 
+        "pk": 97
+    }, 
+    {
+        "fields": {
+            "institution": "University of Connecticut", 
+            "name": "Ryan Hubbard"
+        }, 
+        "model": "investors.investor", 
+        "pk": 98
+    }, 
+    {
+        "fields": {
+            "institution": "University of Arizona", 
+            "name": "Justin Miller"
+        }, 
+        "model": "investors.investor", 
+        "pk": 99
+    }, 
+    {
+        "fields": {
+            "institution": "University of Michigan", 
+            "name": "Tom Conrad"
+        }, 
+        "model": "investors.investor", 
+        "pk": 100
+    }, 
+    {
+        "fields": {
+            "institution": "Drexel University", 
+            "name": "Andrew Ari Clibanoff"
+        }, 
+        "model": "investors.investor", 
+        "pk": 101
+    }, 
+    {
+        "fields": {
+            "institution": "Sweet Briar College", 
+            "name": "Leah Busque"
+        }, 
+        "model": "investors.investor", 
+        "pk": 102
+    }, 
+    {
+        "fields": {
+            "institution": "University of Cambridge", 
+            "name": "Jude Gomila"
+        }, 
+        "model": "investors.investor", 
+        "pk": 103
+    }, 
+    {
+        "fields": {
+            "institution": "Indian Institute of Management - Ahmedabad", 
+            "name": "Raghav Sehgal"
+        }, 
+        "model": "investors.investor", 
+        "pk": 104
+    }, 
+    {
+        "fields": {
+            "institution": "University of Colorado", 
+            "name": "Raymond Tonsing"
+        }, 
+        "model": "investors.investor", 
+        "pk": 105
+    }, 
+    {
+        "fields": {
+            "institution": "Rice University", 
+            "name": "Sean Park"
+        }, 
+        "model": "investors.investor", 
+        "pk": 106
+    }, 
+    {
+        "fields": {
+            "institution": "UMIST", 
+            "name": "Alistair Milne"
+        }, 
+        "model": "investors.investor", 
+        "pk": 107
+    }, 
+    {
+        "fields": {
+            "institution": "Boston University", 
+            "name": "Matt Britton"
+        }, 
+        "model": "investors.investor", 
+        "pk": 108
+    }, 
+    {
+        "fields": {
+            "institution": "Babson College", 
+            "name": "Andrew Bachman"
+        }, 
+        "model": "investors.investor", 
+        "pk": 109
+    }, 
+    {
+        "fields": {
+            "institution": "Ngee Ann Polytechnic", 
+            "name": "Nicholas Chan"
+        }, 
+        "model": "investors.investor", 
+        "pk": 110
+    }, 
+    {
+        "fields": {
+            "institution": "University of Cambridge", 
+            "name": "Saul Klein"
+        }, 
+        "model": "investors.investor", 
+        "pk": 111
+    }, 
+    {
+        "fields": {
+            "institution": "American International University Bangladesh", 
+            "name": "Lutfar Rahman Nirjhar"
+        }, 
+        "model": "investors.investor", 
+        "pk": 112
+    }, 
+    {
+        "fields": {
+            "institution": "Conservatory of Music", 
+            "name": "Matias de Tezanos"
+        }, 
+        "model": "investors.investor", 
+        "pk": 113
+    }, 
+    {
+        "fields": {
+            "institution": "University of Southern California (USC)", 
+            "name": "Brock Pierce"
+        }, 
+        "model": "investors.investor", 
+        "pk": 114
+    }, 
+    {
+        "fields": {
+            "institution": "Harvard University", 
+            "name": "Sam Lessin"
+        }, 
+        "model": "investors.investor", 
+        "pk": 115
+    }, 
+    {
+        "fields": {
+            "institution": "The Open University", 
+            "name": "Robert Prokes"
+        }, 
+        "model": "investors.investor", 
+        "pk": 116
+    }, 
+    {
+        "fields": {
+            "institution": "Pennsylvania State University", 
+            "name": "Matt Brezina"
+        }, 
+        "model": "investors.investor", 
+        "pk": 117
+    }, 
+    {
+        "fields": {
+            "institution": "University of East London", 
+            "name": "Nerses Najaryan"
+        }, 
+        "model": "investors.investor", 
+        "pk": 118
+    }, 
+    {
+        "fields": {
+            "institution": "UCSB", 
+            "name": "Scott Crosby"
+        }, 
+        "model": "investors.investor", 
+        "pk": 119
+    }, 
+    {
+        "fields": {
+            "institution": "Graduate Institute of International Studies, Geneva", 
+            "name": "Paul Papadimitriou"
+        }, 
+        "model": "investors.investor", 
+        "pk": 120
+    }, 
+    {
+        "fields": {
+            "institution": "University of Bath", 
+            "name": "Abhishek Rungta"
+        }, 
+        "model": "investors.investor", 
+        "pk": 121
+    }, 
+    {
+        "fields": {
+            "institution": "Princeton University", 
+            "name": "Timothy Ferriss"
+        }, 
+        "model": "investors.investor", 
+        "pk": 122
+    }, 
+    {
+        "fields": {
+            "institution": "University of Sheffield", 
+            "name": "Andy McLoughlin"
+        }, 
+        "model": "investors.investor", 
+        "pk": 123
+    }, 
+    {
+        "fields": {
+            "institution": "Johannes Kepler University", 
+            "name": "Christian H. Leeb"
+        }, 
+        "model": "investors.investor", 
+        "pk": 124
+    }, 
+    {
+        "fields": {
+            "institution": "Stanford University", 
+            "name": "David E. Weekly"
+        }, 
+        "model": "investors.investor", 
+        "pk": 125
+    }, 
+    {
+        "fields": {
+            "institution": "Long Island University", 
+            "name": "Terry Semel"
+        }, 
+        "model": "investors.investor", 
+        "pk": 126
+    }, 
+    {
+        "fields": {
+            "institution": "Institute of World Economy and Foreign Affairs of the National A", 
+            "name": "Hares Youssef"
+        }, 
+        "model": "investors.investor", 
+        "pk": 127
+    }, 
+    {
+        "fields": {
+            "institution": "Massachusetts Institute of Technology (MIT)", 
+            "name": "Joe Beninato"
+        }, 
+        "model": "investors.investor", 
+        "pk": 128
+    }, 
+    {
+        "fields": {
+            "institution": "Vrije Universiteit, Amsterdam", 
+            "name": "Werner Vogels"
+        }, 
+        "model": "investors.investor", 
+        "pk": 129
+    }, 
+    {
+        "fields": {
+            "institution": "Columbia University, Business School", 
+            "name": "Mikaal Abdulla"
+        }, 
+        "model": "investors.investor", 
+        "pk": 130
+    }, 
+    {
+        "fields": {
+            "institution": "Indiana University Bloomington", 
+            "name": "Mark Cuban"
+        }, 
+        "model": "investors.investor", 
+        "pk": 131
+    }, 
+    {
+        "fields": {
+            "institution": "Pace University", 
+            "name": "Gurbaksh Chahal"
+        }, 
+        "model": "investors.investor", 
+        "pk": 132
+    }, 
+    {
+        "fields": {
+            "institution": "The Open University of Israel", 
+            "name": "Amit Avner"
+        }, 
+        "model": "investors.investor", 
+        "pk": 133
+    }, 
+    {
+        "fields": {
+            "institution": "University of Maryland, College Park", 
+            "name": "Arjun Sethi"
+        }, 
+        "model": "investors.investor", 
+        "pk": 134
+    }, 
+    {
+        "fields": {
+            "institution": "Southern Illinois University, Carbondale", 
+            "name": "William Kasel"
+        }, 
+        "model": "investors.investor", 
+        "pk": 135
+    }, 
+    {
+        "fields": {
+            "institution": "University of Maryland", 
+            "name": "Jason Port"
+        }, 
+        "model": "investors.investor", 
+        "pk": 136
+    }, 
+    {
+        "fields": {
+            "institution": "Oklahoma Wesleyan University", 
+            "name": "Ryan Merket"
+        }, 
+        "model": "investors.investor", 
+        "pk": 137
+    }, 
+    {
+        "fields": {
+            "institution": "London University", 
+            "name": "Jos White"
+        }, 
+        "model": "investors.investor", 
+        "pk": 138
+    }, 
+    {
+        "fields": {
+            "institution": "University of Wisconsin-Madison", 
+            "name": "Rajeev Viswanathan"
+        }, 
+        "model": "investors.investor", 
+        "pk": 139
+    }, 
+    {
+        "fields": {
+            "institution": "University of Southern California", 
+            "name": "Dane McLeod"
+        }, 
+        "model": "investors.investor", 
+        "pk": 140
+    }, 
+    {
+        "fields": {
+            "institution": "Kent State University", 
+            "name": "Jeff SKI Kinsey"
+        }, 
+        "model": "investors.investor", 
+        "pk": 141
+    }, 
+    {
+        "fields": {
+            "institution": "University of Washington", 
+            "name": "Daryn Nakhuda"
+        }, 
+        "model": "investors.investor", 
+        "pk": 142
+    }, 
+    {
+        "fields": {
+            "institution": "Rowan University", 
+            "name": "Stephen Gill"
+        }, 
+        "model": "investors.investor", 
+        "pk": 143
+    }, 
+    {
+        "fields": {
+            "institution": "Harvard University", 
+            "name": "Jason Henrichs"
+        }, 
+        "model": "investors.investor", 
+        "pk": 144
+    }, 
+    {
+        "fields": {
+            "institution": "University of California, Davis (UCD)", 
+            "name": "Deap Ubhi"
+        }, 
+        "model": "investors.investor", 
+        "pk": 145
+    }, 
+    {
+        "fields": {
+            "institution": "University of Southern California (USC)", 
+            "name": "Marc Benioff"
+        }, 
+        "model": "investors.investor", 
+        "pk": 146
+    }, 
+    {
+        "fields": {
+            "institution": "Washington University in St. Louis", 
+            "name": "David Ulevitch"
+        }, 
+        "model": "investors.investor", 
+        "pk": 147
+    }, 
+    {
+        "fields": {
+            "institution": "Tufts University", 
+            "name": "Jay Meattle"
+        }, 
+        "model": "investors.investor", 
+        "pk": 148
+    }, 
+    {
+        "fields": {
+            "institution": "University of Hamburg", 
+            "name": "Marc Griefahn"
+        }, 
+        "model": "investors.investor", 
+        "pk": 149
+    }, 
+    {
+        "fields": {
+            "institution": "University of California Riverside", 
+            "name": "Danny Davis (McCallon)"
+        }, 
+        "model": "investors.investor", 
+        "pk": 150
+    }, 
+    {
+        "fields": {
+            "institution": "Massachusetts Institute of Technology (MIT)", 
+            "name": "David Samuel"
+        }, 
+        "model": "investors.investor", 
+        "pk": 151
+    }, 
+    {
+        "fields": {
+            "institution": "University of Pennsylvania", 
+            "name": "Ken Seiff"
+        }, 
+        "model": "investors.investor", 
+        "pk": 152
+    }, 
+    {
+        "fields": {
+            "institution": "University of Texas at Austin, McCombs School of Business", 
+            "name": "Colin Anawaty"
+        }, 
+        "model": "investors.investor", 
+        "pk": 153
+    }, 
+    {
+        "fields": {
+            "institution": "Stanford University", 
+            "name": "Nirav Tolia"
+        }, 
+        "model": "investors.investor", 
+        "pk": 154
+    }, 
+    {
+        "fields": {
+            "institution": "Hochschule f?r Technik und Wirtschaft Berlin", 
+            "name": "Thomas Hessler"
+        }, 
+        "model": "investors.investor", 
+        "pk": 155
+    }, 
+    {
+        "fields": {
+            "institution": "University of Oxford", 
+            "name": "Kirill Makharinsky"
+        }, 
+        "model": "investors.investor", 
+        "pk": 156
+    }, 
+    {
+        "fields": {
+            "institution": "Wheaton College", 
+            "name": "Derick Thompson"
+        }, 
+        "model": "investors.investor", 
+        "pk": 157
+    }, 
+    {
+        "fields": {
+            "institution": "University of California, Berkeley", 
+            "name": "Steve Chen"
+        }, 
+        "model": "investors.investor", 
+        "pk": 158
+    }, 
+    {
+        "fields": {
+            "institution": "University of Pennsylvania", 
+            "name": "Josh Kopelman"
+        }, 
+        "model": "investors.investor", 
+        "pk": 159
+    }, 
+    {
+        "fields": {
+            "institution": "Vyners School", 
+            "name": "Josh Valman"
+        }, 
+        "model": "investors.investor", 
+        "pk": 160
+    }, 
+    {
+        "fields": {
+            "institution": "University of Michigan", 
+            "name": "Marc Hustvedt"
+        }, 
+        "model": "investors.investor", 
+        "pk": 161
+    }, 
+    {
+        "fields": {
+            "institution": "Worcester Polytechnic Institute", 
+            "name": "Cory von Wallenstein"
+        }, 
+        "model": "investors.investor", 
+        "pk": 162
+    }, 
+    {
+        "fields": {
+            "institution": "University of Chicago", 
+            "name": "David Miller"
+        }, 
+        "model": "investors.investor", 
+        "pk": 163
+    }, 
+    {
+        "fields": {
+            "institution": "Brandeis University", 
+            "name": "Andy Fruchter"
+        }, 
+        "model": "investors.investor", 
+        "pk": 164
+    }, 
+    {
+        "fields": {
+            "institution": "Johns Hopkins University", 
+            "name": "Dave McClure"
+        }, 
+        "model": "investors.investor", 
+        "pk": 165
+    }, 
+    {
+        "fields": {
+            "institution": "Thapar University", 
+            "name": "Sameer Guglani"
+        }, 
+        "model": "investors.investor", 
+        "pk": 166
+    }, 
+    {
+        "fields": {
+            "institution": "Stanford University", 
+            "name": "Issac Roth"
+        }, 
+        "model": "investors.investor", 
+        "pk": 167
+    }, 
+    {
+        "fields": {
+            "institution": "Harvard University", 
+            "name": "Mark Jacobstein"
+        }, 
+        "model": "investors.investor", 
+        "pk": 168
+    }, 
+    {
+        "fields": {
+            "institution": "Brown University", 
+            "name": "Darryl Siry"
+        }, 
+        "model": "investors.investor", 
+        "pk": 169
+    }, 
+    {
+        "fields": {
+            "institution": "Tel-Aviv University", 
+            "name": "Idan Cohen"
+        }, 
+        "model": "investors.investor", 
+        "pk": 170
+    }, 
+    {
+        "fields": {
+            "institution": "University of Oregon", 
+            "name": "Mike Jones"
+        }, 
+        "model": "investors.investor", 
+        "pk": 171
+    }, 
+    {
+        "fields": {
+            "institution": "University of Texas at San Antonio", 
+            "name": "John Engates"
+        }, 
+        "model": "investors.investor", 
+        "pk": 172
+    }, 
+    {
+        "fields": {
+            "institution": "Poli-USP", 
+            "name": "Cassio Spina"
+        }, 
+        "model": "investors.investor", 
+        "pk": 173
+    }, 
+    {
+        "fields": {
+            "institution": "University of Michigan", 
+            "name": "Benjamin Sun"
+        }, 
+        "model": "investors.investor", 
+        "pk": 174
+    }, 
+    {
+        "fields": {
+            "institution": "University of North Texas", 
+            "name": "Rick Segal"
+        }, 
+        "model": "investors.investor", 
+        "pk": 175
+    }, 
+    {
+        "fields": {
+            "institution": "Massachusetts Institute of Technology (MIT)", 
+            "name": "Niel Robertson"
+        }, 
+        "model": "investors.investor", 
+        "pk": 176
+    }, 
+    {
+        "fields": {
+            "institution": "Wake Forest", 
+            "name": "Zach Klein"
+        }, 
+        "model": "investors.investor", 
+        "pk": 177
+    }, 
+    {
+        "fields": {
+            "institution": "NUIG Galway", 
+            "name": "Conor Stanley"
+        }, 
+        "model": "investors.investor", 
+        "pk": 178
+    }, 
+    {
+        "fields": {
+            "institution": "Acadia University", 
+            "name": "Chris Burke"
+        }, 
+        "model": "investors.investor", 
+        "pk": 179
+    }, 
+    {
+        "fields": {
+            "institution": "University of California, Berkeley", 
+            "name": "Hiten Shah"
+        }, 
+        "model": "investors.investor", 
+        "pk": 180
+    }, 
+    {
+        "fields": {
+            "institution": "Skidmore College", 
+            "name": "Darren Herman"
+        }, 
+        "model": "investors.investor", 
+        "pk": 181
+    }, 
+    {
+        "fields": {
+            "institution": "University of Maryland Baltimore County (UMBC)", 
+            "name": "Greg Cangialosi"
+        }, 
+        "model": "investors.investor", 
+        "pk": 182
+    }, 
+    {
+        "fields": {
+            "institution": "University of South Australia", 
+            "name": "Benjamin Law"
+        }, 
+        "model": "investors.investor", 
+        "pk": 183
+    }, 
+    {
+        "fields": {
+            "institution": "Vassar college", 
+            "name": "Caterina Fake"
+        }, 
+        "model": "investors.investor", 
+        "pk": 184
+    }, 
+    {
+        "fields": {
+            "institution": "Stanford University Graduate School of Business", 
+            "name": "Sten Tamkivi"
+        }, 
+        "model": "investors.investor", 
+        "pk": 185
+    }, 
+    {
+        "fields": {
+            "institution": "University of Colorado at Boulder", 
+            "name": "Dave Morin"
+        }, 
+        "model": "investors.investor", 
+        "pk": 186
+    }, 
+    {
+        "fields": {
+            "institution": "Columbia University", 
+            "name": "Joe Speiser"
+        }, 
+        "model": "investors.investor", 
+        "pk": 187
+    }
+]
