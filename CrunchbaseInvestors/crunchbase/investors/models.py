@@ -1,18 +1,18 @@
 from django.db import models
 
-# class Category(models.Model):
-#     name = models.CharField(max_length=100)
+class People(models.Model):
+    name = models.CharField(max_length = 100)
+    birthPlace = models.TextField()
+    affiliationName = models.TextField()
 
-#     def __str__(self):
-#         return self.name
+    def __str__(self):
+        return self.name
 
 
 class Investor(models.Model):
     name = models.CharField(max_length = 100)
     institution = models.TextField()
-    #notes = models.TextField()
-    #tastes = models.TextField()
-    #category = models.ForeignKey(Category, related_name='ingredients')
+    people = models.ForeignKey(People, related_name = 'investors')
 
     def __str__(self):
         return self.name
