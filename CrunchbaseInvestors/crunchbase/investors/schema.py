@@ -9,6 +9,7 @@ class PeopleNode(DjangoNode):
         model = People
         filter_fields = {
             'name': ['exact', 'icontains', 'istartswith'],
+            'affiliationName': ['exact', 'icontains', 'istartswith'],
             'investors': ['exact', 'icontains', 'istartswith'],
         }
         # filter_fields = ['name', 'investors']
