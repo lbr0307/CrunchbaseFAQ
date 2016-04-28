@@ -10,6 +10,7 @@ class PeopleNode(DjangoNode):
         filter_fields = {
             'name': ['exact', 'icontains', 'istartswith'],
             'affiliationName': ['exact', 'icontains', 'istartswith'],
+            'birthPlace': ['exact', 'icontains', 'istartswith'],
             'investors': ['exact', 'icontains', 'istartswith'],
         }
         # filter_fields = ['name', 'investors']
@@ -25,6 +26,7 @@ class InvestorNode(DjangoNode):
             'institution': ['exact', 'icontains'],
             'people': ['exact', 'icontains'],
             'people__name': ['exact', 'icontains'],
+            'people__affiliationName': ['exact', 'icontains'],
         }
         filter_order_by = ['name', 'people__name']
 
